@@ -16,7 +16,7 @@ To run this project, ensure you have the following installed on your machine:
 - PHP >= 8.0
 - Composer
 - Node.js and npm
-- MySQL/PostgreSQL
+- SQLite
 - Git
 
 ## Installation
